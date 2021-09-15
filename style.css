@@ -3,7 +3,14 @@ div {
   
 }
 h1{
-    align;
+    width: 500px;
+    margin:  0 auto ;
+    text-align: center;
+}
+h2{
+    width: 500px;
+    margin:  0 auto ;
+    text-align: center;
 }
 body {
     background-color: gray;
@@ -33,8 +40,8 @@ table {
     border-top: 5px solid black;
     border-bottom: 5px solid black;
 }
-
-[id=0] {
-    background-color: hotpink;
-
+#resetBoard {
+    width: auto;
+    margin:  0 auto ;
+    text-align: center;
 }
